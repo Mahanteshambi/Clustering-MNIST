@@ -12,6 +12,6 @@ Evaluated clustering results by comparing original label of digit images and clu
 
 Considered label of cluster by finding the highest occuring digit image and rest other images to be miss clustered.
 
-Following are the representation of clusters by taking random 100 images from a cluster.
+Following are the representation of 2 clusters by taking random 100 images from each of those clusters.
 
-![Cluster having images of digit 7](Clustering/MNIST/SimpleNet/output/kmeans/kmeans_cluster0.png | width=100)  ![Cluster having images of digit 6](Clustering/MNIST/SimpleNet/output/kmeans/kmeans_cluster1.png | width=100)
+![Cluster having images of digit 7](Clustering/MNIST/SimpleNet/output/kmeans/kmeans_cluster0.png)  ![Cluster having images of digit 6](Clustering/MNIST/SimpleNet/output/kmeans/kmeans_cluster1.png)
