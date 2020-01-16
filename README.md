@@ -1,4 +1,4 @@
-# Deep learning
+# Clusterin MNIST digits
 
 In this repository, we will be clustering MNIST digits dataset using KMeans algorithm. I did not take trouble to cluster using DBScan or Agglomerative algorithms, as it would require lot of analysis in setting parameters( epsilon and min_samples in DBScan and height in agglomerative) but i do have a place holder for anyone to try it out.
 
