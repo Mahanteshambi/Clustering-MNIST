@@ -35,3 +35,4 @@ Following are the representation of 2 clusters by taking random 100 images from 
 ## Cluster having images of digit 6:
 ![Cluster having images of digit 6](Clustering/MNIST/SimpleNet/output/kmeans/kmeans_cluster1.png)
 
+You can also check all 10 cluster dumps @ **Clustering-MNIST/Clustering/MNIST/SimpleNet/output/kmeans/**
